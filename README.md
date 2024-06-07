@@ -3,12 +3,12 @@
 
 ## **Literature inforamtion**
 - The **NS2B and NS3** proteins are essential components of the viral protease complex in **Flaviviruses**, which includes **Zika virus and Dengue virus**. The `NS3 protein acts as the catalytic subunit`, while the `NS2B protein acts as a cofactor`, forming a tightly associated complex that is responsible for the proteolytic processing of the viral polyprotein.
-- The NS2B/NS3 protease complex of Zika virus and Dengue virus share a **high degree of structural similarity**, with the overall fold and arrangement of the **two proteins being highly conserved**. The **active site residues** and the **substrate-binding pockets** are also very **similar**, which allows for **the development of pan-Flavivirus inhibitors that can target both Zika and Dengue viruses**.
+- The NS2B/NS3 protease complex of Zika virus and Dengue virus share a `**high degree of structural similarity**`, with the overall fold and arrangement of the `**two proteins being highly conserved**`. The `**active site residues**` and the `**substrate-binding pockets**` are also very `**similar**`, which allows for `**the development of pan-Flavivirus inhibitors that can target both Zika and Dengue viruses**`.
 
-- ### **This project is divided into 3 phases:**
+### **This project is divided into 3 phases:**
  1. Machine Learning classification model building and screening of DrugBank
-  2. Virtual screening of potential active molecules using Maestro
-  3. Perform MD Simulation of selected molecules using Gromacs
+ 2. Virtual screening of potential active molecules using Maestro
+ 3. Perform MD Simulation of selected molecules using Gromacs
 
 ## **1. ML part**
 ## **Steps involved**
