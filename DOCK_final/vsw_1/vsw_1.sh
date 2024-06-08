@@ -1,0 +1,1 @@
+"${SCHRODINGER}/vsw" vsw_1.inp -OVERWRITE -host_ligprep localhost:1 -host_glide localhost:1 -host_qikprop localhost:1 -adjust -NJOBS 1 -TMPLAUNCHDIR

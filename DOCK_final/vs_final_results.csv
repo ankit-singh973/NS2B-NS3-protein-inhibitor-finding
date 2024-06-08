@@ -1,0 +1,56 @@
+Title,Entry ID,DATABASE_ID,SMILES,DRUG_GROUPS,GENERIC_NAME,docking score
+ligprep_1.sdf:8,3,DB17692,FC1=CC=CN=C1CNC(=O)C1=COC(CCNCCC2=NC3=CC=CC=C3N2)=N1,investigational,Vamifeport,-7.936
+ligprep_1.sdf:8,4,DB17692,FC1=CC=CN=C1CNC(=O)C1=COC(CCNCCC2=NC3=CC=CC=C3N2)=N1,investigational,Vamifeport,-7.936
+382,5,DB04591,[H][C@@]1(CCCCN1)C(F)(F)CNC1=NC=CC2=C1N=C(CC1=CC=CC=C1N1C=NC=N1)O2,experimental,"N-{2,2-DIFLUORO-2-[(2R)-PIPERIDIN-2-YL]ETHYL}-2-[2-(1H-1,2,4-TRIAZOL-1-YL)BENZYL][1,3]OXAZOLO[4,5-C]PYRIDIN-4-AMINE",-7.239
+NSC,6,DB04452,CC1=NC2=CC=C(NC(=O)NC3=CC4=C(C=C3)N=C(C)C=C4N)C=C2C(N)=C1,experimental,Aminoquinuride,-7.22
+ligprep_1.sdf:7,7,DB18036,NC(=N)NC1=CC=C2CN(CCC(=O)NC(CC(O)=O)C3=CC=CN=C3)C(=O)C2=C1,investigational,3-(3-(6-Guanidino-1-oxoisoindolin-2yl)propanamido)-3-(pyridine-3yl)propanoic acid,-6.986
+ligprep_1.sdf:7,8,DB18036,NC(=N)NC1=CC=C2CN(CCC(=O)NC(CC(O)=O)C3=CC=CN=C3)C(=O)C2=C1,investigational,3-(3-(6-Guanidino-1-oxoisoindolin-2yl)propanamido)-3-(pyridine-3yl)propanoic acid,-6.986
+ligprep_1.sdf:99,9,DB09013,CC(C)NCC(O)COC1=CC=CC2=C1OC(=C2)C(C)=O,experimental,Befunolol,-6.727
+ligprep_1.sdf:7,10,DB18036,NC(=N)NC1=CC=C2CN(CCC(=O)NC(CC(O)=O)C3=CC=CN=C3)C(=O)C2=C1,investigational,3-(3-(6-Guanidino-1-oxoisoindolin-2yl)propanamido)-3-(pyridine-3yl)propanoic acid,-6.624
+ligprep_1.sdf:59,11,DB12831,CCOC(=O)C1=CC=C(OC(=O)CCCCCNC(N)=N)C=C1,investigational,Gabexate,-6.474
+ligprep_1.sdf:7,12,DB18036,NC(=N)NC1=CC=C2CN(CCC(=O)NC(CC(O)=O)C3=CC=CN=C3)C(=O)C2=C1,investigational,3-(3-(6-Guanidino-1-oxoisoindolin-2yl)propanamido)-3-(pyridine-3yl)propanoic acid,-6.409
+382,13,DB04591,[H][C@@]1(CCCCN1)C(F)(F)CNC1=NC=CC2=C1N=C(CC1=CC=CC=C1N1C=NC=N1)O2,experimental,"N-{2,2-DIFLUORO-2-[(2R)-PIPERIDIN-2-YL]ETHYL}-2-[2-(1H-1,2,4-TRIAZOL-1-YL)BENZYL][1,3]OXAZOLO[4,5-C]PYRIDIN-4-AMINE",-6.318
+ligprep_1.sdf:135,14,DB06900,NC(=N)NC1=CC=C(CO)C=C1,experimental,1-[4-(hydroxymethyl)phenyl]guanidine,-6.218
+ligprep_1.sdf:136,15,DB06726,CCC1=CC=CC2=C1OC(=C2)C(O)CNC(C)(C)C,experimental,Bufuralol,-5.983
+TH1,16,DB03250,[H][C@]1(CO)O[C@@]([H])(C2=NC3=CC(C)=CC=C3S2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,experimental,"2-(Beta-D-Glucopyranosyl)-5-Methyl-1,3,4-Benzothiazole",-5.974
+547,17,DB07146,C(CN1CCNCC1)NC1=CC=NC2=C1C(=C(O2)C1=CC=CC=C1)C1=CC=CC=C1,experimental,"2,3-DIPHENYL-N-(2-PIPERAZIN-1-YLETHYL)FURO[2,3-B]PYRIDIN-4-AMINE",-5.944
+ligprep_1.sdf:28,18,DB15419,ONC(=O)C1=CN=C(N=C1)N1C[C@H]2[C@@H](C1)[C@@H]2NCC1=NC2=CC=C(F)C=C2C=C1,investigational,Nanatinostat,-5.937
+ligprep_1.sdf:28,19,DB15419,ONC(=O)C1=CN=C(N=C1)N1C[C@H]2[C@@H](C1)[C@@H]2NCC1=NC2=CC=C(F)C=C2C=C1,investigational,Nanatinostat,-5.937
+ligprep_1.sdf:3,20,DB18151,NC(CO)(CO)CCC1=CC=C(SC2=CC=CC(OCC3=CC=CC=C3)=C2)C=C1Cl,investigational,Mocravimod,-5.921
+547,21,DB07146,C(CN1CCNCC1)NC1=CC=NC2=C1C(=C(O2)C1=CC=CC=C1)C1=CC=CC=C1,experimental,"2,3-DIPHENYL-N-(2-PIPERAZIN-1-YLETHYL)FURO[2,3-B]PYRIDIN-4-AMINE",-5.882
+RRP,22,DB08487,NC(=N)C1=CC(CN2CCN(CC2=O)S(=O)(=O)C2=CC3=C(S2)C=C(Cl)C=C3)=CC=C1,experimental,3-({4-[(6-CHLORO-1-BENZOTHIEN-2-YL)SULFONYL]-2-OXOPIPERAZIN-1-YL}METHYL)BENZENECARBOXIMIDAMIDE,-5.845
+ligprep_1.sdf:16,23,DB16954,CC(C)CN(CCCN1CCN(CCCNC2=NC3=CC=CC=C3N2)CC1)CC(C)C,investigational,Ezeprogind,-5.799
+ligprep_1.sdf:16,24,DB16954,CC(C)CN(CCCN1CCN(CCCNC2=NC3=CC=CC=C3N2)CC1)CC(C)C,investigational,Ezeprogind,-5.799
+ligprep_1.sdf:16,25,DB16954,CC(C)CN(CCCN1CCN(CCCNC2=NC3=CC=CC=C3N2)CC1)CC(C)C,investigational,Ezeprogind,-5.799
+ligprep_1.sdf:16,26,DB16954,CC(C)CN(CCCN1CCN(CCCNC2=NC3=CC=CC=C3N2)CC1)CC(C)C,investigational,Ezeprogind,-5.799
+ligprep_1.sdf:16,27,DB16954,CC(C)CN(CCCN1CCN(CCCNC2=NC3=CC=CC=C3N2)CC1)CC(C)C,investigational,Ezeprogind,-5.799
+ligprep_1.sdf:16,28,DB16954,CC(C)CN(CCCN1CCN(CCCNC2=NC3=CC=CC=C3N2)CC1)CC(C)C,investigational,Ezeprogind,-5.799
+ligprep_1.sdf:99,29,DB09013,CC(C)NCC(O)COC1=CC=CC2=C1OC(=C2)C(C)=O,experimental,Befunolol,-5.685
+ligprep_1.sdf:39,30,DB15079,CN(CC(=O)NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2)C(=O)CNC(=O)CN,investigational,Troriluzole,-5.657
+ligprep_1.sdf:83,31,DB11969,CN1N=CC(Cl)=C1C1=C(Cl)OC(=C1)C(=O)N[C@H](CN)CC1=CC=C(F)C(F)=C1,investigational,Uprosertib,-5.627
+ligprep_1.sdf:39,32,DB15079,CN(CC(=O)NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2)C(=O)CNC(=O)CN,investigational,Troriluzole,-5.624
+ligprep_1.sdf:39,33,DB15079,CN(CC(=O)NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2)C(=O)CNC(=O)CN,investigational,Troriluzole,-5.624
+ligprep_1.sdf:136,34,DB06726,CCC1=CC=CC2=C1OC(=C2)C(O)CNC(C)(C)C,experimental,Bufuralol,-5.557
+ligprep_1.sdf:3,35,DB18151,NC(CO)(CO)CCC1=CC=C(SC2=CC=CC(OCC3=CC=CC=C3)=C2)C=C1Cl,investigational,Mocravimod,-5.453
+ligprep_1.sdf:65,36,DB12547,NC1=N[C@]2(COC[C@H]2CS1)C1=C(F)C=CC(NC(=O)C2=CC=C(F)C=N2)=C1,investigational,LY-2886721,-5.423
+ligprep_1.sdf:65,37,DB12547,NC1=N[C@]2(COC[C@H]2CS1)C1=C(F)C=CC(NC(=O)C2=CC=C(F)C=N2)=C1,investigational,LY-2886721,-5.423
+ligprep_1.sdf:65,38,DB12547,NC1=N[C@]2(COC[C@H]2CS1)C1=C(F)C=CC(NC(=O)C2=CC=C(F)C=N2)=C1,investigational,LY-2886721,-5.423
+ligprep_1.sdf:35,39,DB15265,CC(C)N1CCC(CC1)N1CCCN(CC1)C1=CC=CC(=N1)C(=O)NC1=CC=NC=C1,investigational,USL-311,-5.09
+ESI,40,DB03136,NC(=[NH2+])C1=CC2=C(S1)C=CC=C2I,experimental,4-Iodobenzo[B]Thiophene-2-Carboxamidine,-5.015
+ESX,41,DB04446,NC(=[NH2+])C1=CC2=C(S1)C=CC=C2,experimental,Benzo[B]Thiophene-2-Carboxamidine,-4.992
+ligprep_1.sdf:28,42,DB15419,ONC(=O)C1=CN=C(N=C1)N1C[C@H]2[C@@H](C1)[C@@H]2NCC1=NC2=CC=C(F)C=C2C=C1,investigational,Nanatinostat,-4.965
+744,43,DB00744,CC(N(O)C(N)=O)C1=CC2=CC=CC=C2S1,approved; investigational; withdrawn,Zileuton,-4.905
+744,44,DB00744,CC(N(O)C(N)=O)C1=CC2=CC=CC=C2S1,approved; investigational; withdrawn,Zileuton,-4.905
+ligprep_1.sdf:19,45,DB16872,OCCN1CCN(CCS(O)(=O)=O)CC1,investigational,HEPES,-4.742
+ligprep_1.sdf:19,46,DB16872,OCCN1CCN(CCS(O)(=O)=O)CC1,investigational,HEPES,-4.742
+ligprep_1.sdf:19,47,DB16872,OCCN1CCN(CCS(O)(=O)=O)CC1,investigational,HEPES,-4.742
+ligprep_1.sdf:54,48,DB13239,O[C@H]1CC[C@@H](CC1)NCC1=CC(Br)=CC(Br)=C1NC(=O)C1=CC=CS1,experimental,Neltenexine,-4.726
+ligprep_1.sdf:54,49,DB13239,O[C@H]1CC[C@@H](CC1)NCC1=CC(Br)=CC(Br)=C1NC(=O)C1=CC=CS1,experimental,Neltenexine,-4.726
+4838,50,DB04838,CC1CC(CC(C)(C)C1)OC(=O)C(O)C1=CC=CC=C1,approved,Cyclandelate,-4.672
+ligprep_1.sdf:91,51,DB11648,CN1N=CC(Cl)=C1C1=C(Cl)SC(=C1)C(=O)N[C@H](CN)CC1=CC=CC(F)=C1,investigational,Afuresertib,-4.661
+ligprep_1.sdf:137,52,DB06684,NC(=O)C1=CC2=CC(=CC=C2O1)N1CCN(CCCCC2=CNC3=C2C=C(C=C3)C#N)CC1,approved,Vilazodone,-4.567
+ligprep_1.sdf:137,53,DB06684,NC(=O)C1=CC2=CC(=CC=C2O1)N1CCN(CCCCC2=CNC3=C2C=C(C=C3)C#N)CC1,approved,Vilazodone,-4.567
+IIE,54,DB07974,CC(C)N1CCC(CC1)NC(=O)C1=CC2=C(C=CC=C2)N1CC(=O)NC1=CC=C(Cl)C=C1,experimental,1-{2-[(4-CHLOROPHENYL)AMINO]-2-OXOETHYL}-N-(1-ISOPROPYLPIPERIDIN-4-YL)-1H-INDOLE-2-CARBOXAMIDE,-4.507
+5CN,55,DB07167,CC1CCN(CC1)C1=CC=C(CO)C=C1NC(=O)C1=CC=C(O1)C#N,experimental,5-CYANO-FURAN-2-CARBOXYLIC ACID [5-HYDROXYMETHYL-2-(4-METHYL-PIPERIDIN-1-YL)-PHENYL]-AMIDE,-4.41
+5CN,56,DB07167,CC1CCN(CC1)C1=CC=C(CO)C=C1NC(=O)C1=CC=C(O1)C#N,experimental,5-CYANO-FURAN-2-CARBOXYLIC ACID [5-HYDROXYMETHYL-2-(4-METHYL-PIPERIDIN-1-YL)-PHENYL]-AMIDE,-4.41
+ligprep_1.sdf:25,57,DB16122,CC1=CC(=CC=C1)N1CCN(CCC2=CC=C3C=CC=CC3=N2)CC1,investigational,Centhaquine,-4.264

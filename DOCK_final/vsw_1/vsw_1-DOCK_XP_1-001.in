@@ -1,0 +1,8 @@
+AMIDE_MODE   penal
+GRIDFILE   C:\Users\Ankit\Desktop\DOCK_final\glide-grid_1\glide-grid_1.zip
+LIGANDFILE   vsw_1-PRE_DOCK_XP_1-001-in.maegz
+MAXATOMS   300
+MAXROTBONDS   50
+NREPORT   118
+POSE_OUTTYPE   poseviewer
+PRECISION   XP
